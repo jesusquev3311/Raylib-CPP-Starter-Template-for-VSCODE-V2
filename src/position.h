@@ -5,6 +5,6 @@ class Position
     public:
         Position( int row, int column);
         int row;
-        int colmn;
+        int column;
     private:
 };
